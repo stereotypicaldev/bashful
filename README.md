@@ -56,6 +56,7 @@ Monitoring different aspects of the system
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch/)
 - [bandwhich](https://github.com/imsnif/bandwhich)
 - [bpytop](https://github.com/aristocratos/bpytop)
+- [btop](https://github.com/aristocratos/btop)
 - [duf](https://github.com/muesli/duf)
 - [btm](https://github.com/ClementTsang/bottom)
 - [dysk](https://github.com/Canop/dysk)
