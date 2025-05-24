@@ -2,6 +2,8 @@
 <h1 align="center">Bashful</h1>
 <br>
 
+- Terminal Multiplexer : [tmux](https://github.com/tmux/tmux/wiki)
+
 ## Text Editor
 
 - [micro](https://micro-editor.github.io/) 
@@ -10,11 +12,11 @@
 
 - [nala](https://gitlab.com/volian/nala)
 
-## TMUX
+## Terminal Multiplexer (TMUX) Extensions
 
-- [tmux](https://github.com/tmux/tmux/wiki)
 - [gitmux](https://github.com/arl/gitmux)
-
+- [tmuxinator](https://github.com/tmuxinator/tmuxinator)
+  
 ## "Fun"
 
 - [pastel](https://github.com/sharkdp/pastel)
@@ -91,7 +93,8 @@ Monitoring different aspects of the system
 - [k](https://github.com/supercrabtree/k)
 - [exa](https://github.com/ogham/exa)
 - [eza](https://eza.rocks/)
-  
+- [colorls](https://github.com/athityakumar/colorls)
+
 - https://github.com/pindexis/qfc
 
 ## Directory Navigation
