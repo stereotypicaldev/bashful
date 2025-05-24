@@ -123,3 +123,10 @@ Monitoring different aspects of the system
 - [exiftool](https://exiftool.org/)
 - [imagemagick]()
 - [imgp](https://github.com/jarun/imgp?tab=readme-ov-file)
+
+## Sources
+
+- [Bash-it](https://github.com/Bash-it/bash-it)
+
+
+
