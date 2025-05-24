@@ -2,7 +2,6 @@
 <h1 align="center">Bashful</h1>
 <br>
 
-
 ## Text Editor
 
 - [micro](https://micro-editor.github.io/) 
@@ -11,27 +10,21 @@
 
 - [nala](https://gitlab.com/volian/nala)
 
+## TMUX
 
+- [tmux](https://github.com/tmux/tmux/wiki)
+- [gitmux](https://github.com/arl/gitmux)
 
+## "Fun"
 
-
-
-
-- [duf](https://github.com/muesli/duf)
-- [fd](https://github.com/sharkdp/fd)
-- [ff](https://www.spflite.com/HtmlS/P_FF.html)
-
-
-- [tmux](https://github.com/tmux/tmux)
 - [pastel](https://github.com/sharkdp/pastel)
-- [aria2](https://aria2.github.io/)
-- [glow](https://github.com/charmbracelet/glow)
-- [bottom (btm)](https://github.com/ClementTsang/bottom?tab=readme-ov-file)
-
-
 - [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
 
-- [dysk]() - colorized filesystem disk space
+## Markdown Viewer
+
+- [glow](https://github.com/charmbracelet/glow)
+
+
 - [rsync]() -
 - [deadlink](https://github.com/nschloe/deadlink)
 - [grip](https://github.com/joeyespo/grip)
@@ -39,17 +32,24 @@
 
 https://github.com/mrjohannchang/fz.sh
 
-
 - [bat](https://github.com/sharkdp/bat)
+
+## Search inside Files
+
+- [ff](https://www.spflite.com/HtmlS/P_FF.html)
 
 ## System Monitoring
 
-- [fastfetch](https://github.com/fastfetch-cli/fastfetch/)
-- [bandwhich](https://github.com/imsnif/bandwhich)
-- [bpytop](https://github.com/aristocratos/bpytop)
+Monitoring different aspects of the system
 
-https://www.atoptool.nl/
-
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch/) - System Information
+- [bandwhich](https://github.com/imsnif/bandwhich) - 
+- [bpytop](https://github.com/aristocratos/bpytop) - 
+- [duf](https://github.com/muesli/duf) - 
+- [btm](https://github.com/ClementTsang/bottom)
+- [dysk](https://github.com/Canop/dysk) - colorized filesystem disk space
+- [atoptool](https://www.atoptool.nl/)
+   
 ## Streaming
 
 - [steamlink](https://github.com/streamlink/streamlink)  
@@ -57,12 +57,13 @@ https://www.atoptool.nl/
 ## Download
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [aria2](https://aria2.github.io/)
 
 ## Git 
 
-    - https://github.com/wfxr/forgit
-    - https://github.com/unixorn/git-extra-commands
-    - https://github.com/paulirish/git-open
+- https://github.com/wfxr/forgit
+- https://github.com/unixorn/git-extra-commands
+- https://github.com/paulirish/git-open
  
 ## Git Commit
 
@@ -89,15 +90,8 @@ https://www.atoptool.nl/
 - [k](https://github.com/supercrabtree/k)
 - [exa](https://github.com/ogham/exa)
 - [eza](https://eza.rocks/)
-
-## File Complection
-
+  
 - https://github.com/pindexis/qfc
-
-## TMUX
-
-- [tmux](https://github.com/tmux/tmux/wiki)
-- [gitmux](https://github.com/arl/gitmux)
 
 ## Directory Navigation
 
@@ -109,6 +103,7 @@ https://www.atoptool.nl/
 - [fd](https://github.com/sharkdp/fd)
 - [z](https://github.com/rupa/z) + [fz](https://github.com/mrjohannchang/fz.sh)
 - [enhancd](https://github.com/babarot/enhancd)
+- [fd](https://github.com/sharkdp/fd)
 
 ## File Manager
 
