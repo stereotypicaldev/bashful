@@ -15,7 +15,6 @@
 ## Tooling
 
 - Terminal Multiplexer : [tmux](https://github.com/tmux/tmux/wiki)
-
 - Text Editor - [micro](https://micro-editor.github.io/)
 - Package Manager - [nala](https://gitlab.com/volian/nala)
 
@@ -41,8 +40,6 @@
 
 - [deadlink](https://github.com/nschloe/deadlink)
 
-- [rsync]() -
-
 https://github.com/mrjohannchang/fz.sh
 
 - [bat](https://github.com/sharkdp/bat)
@@ -50,7 +47,7 @@ https://github.com/mrjohannchang/fz.sh
 ## Search inside Files
 
 - [ff](https://www.spflite.com/HtmlS/P_FF.html)
-
+  
 ## System Monitoring
 
 Monitoring different aspects of the system
@@ -72,13 +69,18 @@ Monitoring different aspects of the system
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [aria2](https://aria2.github.io/)
 
+## File Sync
+
+- [rsync](https://rsync.samba.org/) 
+
 ## Git 
 
 - https://github.com/wfxr/forgit
 - https://github.com/unixorn/git-extra-commands
 - [git-open](https://github.com/paulirish/git-open)
 - [grip](https://github.com/joeyespo/grip)
- 
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+  
 ## Git Commit
 
 - [semantic-git-commit-cli](https://github.com/JPeer264/node-semantic-git-commit-cli)
@@ -130,13 +132,17 @@ Monitoring different aspects of the system
 
 ## Image Manipulation
 
-- [exiftool](https://exiftool.org/)
+- [exiftool](https://github.com/exiftool/exiftool)
 - [imagemagick]()
 - [imgp](https://github.com/jarun/imgp?tab=readme-ov-file)
 
 ## Sources
 
 - [Bash-it](https://github.com/Bash-it/bash-it)
-
-
+- [Awesome Cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+- [Awesome Command Line (CLI/TUI) Programs](https://github.com/toolleeo/awesome-cli-apps-in-a-csv)
+- [Awesome CLI Apps](https://awesomerank.github.io/lists/aharris88/awesome-cli-apps.html)
+- [Track Awesome Cli Apps Updates Daily](https://www.trackawesomelist.com/agarrharr/awesome-cli-apps/)
+- [Dev.to - Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
+- 
 
