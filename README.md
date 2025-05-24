@@ -24,11 +24,11 @@
 
 - [glow](https://github.com/charmbracelet/glow)
 
+## File Manipulation
+
+- [deadlink](https://github.com/nschloe/deadlink)
 
 - [rsync]() -
-- [deadlink](https://github.com/nschloe/deadlink)
-- [grip](https://github.com/joeyespo/grip)
-- [eza](https://github.com/eza-community/eza?tab=readme-ov-file)
 
 https://github.com/mrjohannchang/fz.sh
 
@@ -63,7 +63,8 @@ Monitoring different aspects of the system
 
 - https://github.com/wfxr/forgit
 - https://github.com/unixorn/git-extra-commands
-- https://github.com/paulirish/git-open
+- [git-open](https://github.com/paulirish/git-open)
+- [grip](https://github.com/joeyespo/grip)
  
 ## Git Commit
 
