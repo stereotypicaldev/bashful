@@ -81,6 +81,7 @@ Monitoring different aspects of the system
 - [git-open](https://github.com/paulirish/git-open)
 - [grip](https://github.com/joeyespo/grip)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+- [gh-dash](https://github.com/dlvhdr/gh-dash)
   
 ## Git Commit
 
@@ -130,6 +131,11 @@ Monitoring different aspects of the system
 - [yazi](https://github.com/sxyazi/yazi)
 - [broot](https://github.com/Canop/broot)
 - [xplr](https://github.com/sayanarijit/xplr)
+- [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file)
+
+## Expenses Tracker
+
+- [Bagels](https://github.com/EnhancedJax/Bagels?tab=readme-ov-file)
 
 ## Image Manipulation
 
