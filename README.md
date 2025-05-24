@@ -15,8 +15,8 @@
 
 
 
-- [broot](https://dystroy.org/broot/)
-- [eza](https://eza.rocks/)
+
+
 - [duf](https://github.com/muesli/duf)
 - [fd](https://github.com/sharkdp/fd)
 - [ff](https://www.spflite.com/HtmlS/P_FF.html)
@@ -88,8 +88,9 @@ https://www.atoptool.nl/
 
 - [k](https://github.com/supercrabtree/k)
 - [exa](https://github.com/ogham/exa)
+- [eza](https://eza.rocks/)
 
-- [Resh](https://github.com/curusarn/resh) - search bash history
+## File Complection
 
 - https://github.com/pindexis/qfc
 
