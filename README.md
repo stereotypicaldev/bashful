@@ -31,7 +31,8 @@
 
 - [pastel](https://github.com/sharkdp/pastel)
 - [ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
-
+- [figlet](http://www.figlet.org/)
+  
 ## Markdown Viewer
 
 - [glow](https://github.com/charmbracelet/glow)
