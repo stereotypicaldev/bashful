@@ -83,6 +83,7 @@ Monitoring different aspects of the system
 - [grip](https://github.com/joeyespo/grip)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 - [gh-dash](https://github.com/dlvhdr/gh-dash)
+- [lazygit](https://github.com/jesseduffield/lazygit)
   
 ## Git Commit
 
