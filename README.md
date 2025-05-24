@@ -145,5 +145,5 @@ Monitoring different aspects of the system
 - [Awesome CLI Apps](https://awesomerank.github.io/lists/aharris88/awesome-cli-apps.html)
 - [Track Awesome Cli Apps Updates Daily](https://www.trackawesomelist.com/agarrharr/awesome-cli-apps/)
 - [Dev.to - Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
-- 
+- [Terminal Apps](https://terminal-apps.dev/)
 
