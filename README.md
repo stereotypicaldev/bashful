@@ -42,12 +42,12 @@ https://github.com/mrjohannchang/fz.sh
 
 Monitoring different aspects of the system
 
-- [fastfetch](https://github.com/fastfetch-cli/fastfetch/) - System Information
-- [bandwhich](https://github.com/imsnif/bandwhich) - 
-- [bpytop](https://github.com/aristocratos/bpytop) - 
-- [duf](https://github.com/muesli/duf) - 
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch/)
+- [bandwhich](https://github.com/imsnif/bandwhich)
+- [bpytop](https://github.com/aristocratos/bpytop)
+- [duf](https://github.com/muesli/duf)
 - [btm](https://github.com/ClementTsang/bottom)
-- [dysk](https://github.com/Canop/dysk) - colorized filesystem disk space
+- [dysk](https://github.com/Canop/dysk)
 - [atoptool](https://www.atoptool.nl/)
    
 ## Streaming
