@@ -2,6 +2,16 @@
 <h1 align="center">Bashful</h1>
 <br>
 
+## Terminal Themes
+
+ - https://github.com/win0err/aphrodite-terminal-theme
+ - https://github.com/slomkowski/bash-full-of-colors
+ - https://github.com/Gogh-Co/Gogh
+ - https://github.com/caiogondim/bullet-train.zsh
+ - https://ohmyposh.dev/
+ - https://starship.rs/guide/
+ - https://github.com/andresgongora/synth-shell
+
 ## Tooling
 
 - Terminal Multiplexer : [tmux](https://github.com/tmux/tmux/wiki)
