@@ -2,21 +2,22 @@
 <h1 align="center">Bashful</h1>
 <br>
 
+## Tooling
+
 - Terminal Multiplexer : [tmux](https://github.com/tmux/tmux/wiki)
 
-## Text Editor
-
-- [micro](https://micro-editor.github.io/) 
-
-## Package Manager
-
-- [nala](https://gitlab.com/volian/nala)
+- Text Editor - [micro](https://micro-editor.github.io/)
+- Package Manager - [nala](https://gitlab.com/volian/nala)
 
 ## Terminal Multiplexer (TMUX) Extensions
 
 - [gitmux](https://github.com/arl/gitmux)
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator)
-  
+
+## Terminal Prompts
+
+- [pure](https://github.com/sindresorhus/pure)
+
 ## "Fun"
 
 - [pastel](https://github.com/sharkdp/pastel)
